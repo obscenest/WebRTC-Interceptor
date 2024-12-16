@@ -41,7 +41,7 @@
         </div>
         <div id="ip-addresses"></div>
         <div style="margin-top: 15px; text-align: center;">
-            <a href="https://discord.gg/4ph275Sg" target="_blank" style="display: inline-block; background-color: #7289da; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 8px; transition: background-color 0.3s;">Join us on Discord</a>
+            <a href="https://discord.gg/xhESFaCmzR" target="_blank" style="display: inline-block; background-color: #7289da; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 8px; transition: background-color 0.3s;">Join us on Discord</a>
         </div>
     `;
     document.body.appendChild(ipContainer);
